@@ -1,0 +1,41 @@
+
+
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Program started! Hooray! \o/
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Checking if another PSO2 Tweaker is running...
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Checking pso2_bin directory...
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Loaded pso2_bin directory from settings.
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Checking for command line arguments...
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Creating Quantum logs...
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - ----------------------------------------
+Sun, 07 Oct 2018 13:28:48 GMT: DEBUG - Program opening, running diagnostics...
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Current OS/Version: Microsoft Windows 10 Home Single Language (6.2.9200.0) <English (United States)> [64-bit]
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Drive Filesystem: NTFS
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Directory program is running in: C:\PSO2 Tweaker
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Selected PSO2 Directory: C:\PHANTASYSTARONLINE2\pso2_bin
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - .NET Framework Version: 4.7.1 Or Later
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Enabled Plugins: PSO2BlockRename.dll, PSO2ItemTranslator.dll, PSO2RAISERSystem.dll, PSO2TitleTranslator.dll
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Disabled Plugins: TelepipeProxy.dll
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - System has been on for: 1.172 hours
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - ----------------------------------------
+
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - User location according to IP: India
+Sun, 07 Oct 2018 13:28:49 GMT: Program opened successfully! Version 4.0.8.0 [OK!]
+Sun, 07 Oct 2018 13:28:49 GMT: DEBUG - Using Internet Explorer v11.0.17134.320
+Sun, 07 Oct 2018 13:28:50 GMT: Refreshing external information window...
+Sun, 07 Oct 2018 13:28:54 GMT: Checking for PSO2 Updates...
+Sun, 07 Oct 2018 13:28:54 GMT: Checking for Plugin Updates...
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - pso2h.dll should be deleted but there is no local file.
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2BlockRename.dll should be: E12BBF1A5E14CF03312F975CBE3A8B4B. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\plugins\PSO2BlockRename.dll) is: E12BBF1A5E14CF03312F975CBE3A8B4B
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2CrashDebug.zip should be: 227F11EDF291F654EF2196F5883B938B. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\PSO2CrashDebug.zip) is: 227F11EDF291F654EF2196F5883B938B
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2DamageDump.dll should NOT be updated/checked. The local file is: .
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2ItemTranslator.dll should be: CE007CF447D15E5A593586E4256D8BB2. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\plugins\PSO2ItemTranslator.dll) is: CE007CF447D15E5A593586E4256D8BB2
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2LAWTool.zip should be: 435D04C515358CD49BBBAC0F78070090. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\PSO2LAWTool.zip) is: 435D04C515358CD49BBBAC0F78070090
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2Proxy.dll should be deleted but there is no local file.
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2RAISERSystem.dll should be: C6CACF739643AAB3D66B7C3CC410A751. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\plugins\PSO2RAISERSystem.dll) is: C6CACF739643AAB3D66B7C3CC410A751
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - PSO2TitleTranslator.dll should be: 8CAFA3BBA23BF7C163C07BD0F8BFD474. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\plugins\PSO2TitleTranslator.dll) is: 8CAFA3BBA23BF7C163C07BD0F8BFD474
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - ReShade3.dll should NOT be updated/checked. The local file is: .
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - TelepipeProxy.dll should be: D220D4117033B14E422476AA84EE2F5D. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\plugins\disabled\TelepipeProxy.dll) is: D220D4117033B14E422476AA84EE2F5D
+Sun, 07 Oct 2018 13:28:55 GMT: DEBUG - pso2h.dll should be: C49BC522027E2F6ED747CA22D8125BE6. The local file (C:\PHANTASYSTARONLINE2\pso2_bin\\pso2h.dll) is: C49BC522027E2F6ED747CA22D8125BE6
+Sun, 07 Oct 2018 13:28:55 GMT: There are no plugin updates available.
+Sun, 07 Oct 2018 13:28:55 GMT: You have the latest English patch! [OK!]
+Sun, 07 Oct 2018 13:28:55 GMT: All done - System ready!
