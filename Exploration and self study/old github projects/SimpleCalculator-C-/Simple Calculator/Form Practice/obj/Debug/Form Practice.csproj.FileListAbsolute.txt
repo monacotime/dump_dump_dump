@@ -1,0 +1,18 @@
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form Practice.csprojResolveAssemblyReference.cache
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form_Practice.Form1.resources
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form_Practice.Properties.Resources.resources
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form Practice.csproj.GenerateResource.Cache
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\bin\Debug\Form Practice.exe.config
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\bin\Debug\Form Practice.exe
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\bin\Debug\Form Practice.pdb
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form Practice.exe
+C:\Users\monac\Documents\Visual Studio 2017\Projects\Learning\Form Practice\Form Practice\obj\Debug\Form Practice.pdb
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\bin\Debug\Form Practice.exe.config
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\bin\Debug\Form Practice.exe
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\bin\Debug\Form Practice.pdb
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form Practice.csprojResolveAssemblyReference.cache
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form_Practice.Form1.resources
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form_Practice.Properties.Resources.resources
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form Practice.csproj.GenerateResource.Cache
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form Practice.exe
+C:\Users\monac\Documents\GitHub\SimpleCalculator-C-\Simple Calculator\Form Practice\obj\Debug\Form Practice.pdb
